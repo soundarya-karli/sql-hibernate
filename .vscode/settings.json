@@ -34,6 +34,20 @@
       "database": "hplussport",
       "username": "mariadb",
       "password": "mariadb"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "127.0.0.1",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "my-mysql",
+      "database": "spring",
+      "username": "mariadb",
+      "password": "mariadb"
     }
   ],
   "sqltools.useNodeRuntime": true

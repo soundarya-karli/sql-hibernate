@@ -1,2 +1,0 @@
-SELECT Status
-from Salesperson;
